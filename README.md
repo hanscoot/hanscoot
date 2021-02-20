@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is a depreciated github account, used whilst working on specific work projects.
+
+One out-of-date project exists here as a backup but otherwise all prior projects have since been purged.
+
+Please refer to [✨ _my actual github account_ ✨] (https://github.com/hannahscoot)
 <!--
 **hanscoot/hanscoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
